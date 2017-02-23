@@ -29,7 +29,7 @@ public class Newcustomer extends BaseClass
 	        	 System.out.println("wait for report type ");
 	        	// driver.navigate().to("https://test.insightbee.com/selectreporttype");
                  element=driver.findElement(By.id("company-report"));
-	        	 System.out.println(" report type no selected  ");
+	        	 System.out.println(" report type  selected  ");
                 return element;
 			}
 	       
