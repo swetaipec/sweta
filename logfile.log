@@ -1,0 +1,1269 @@
+2017-02-06 13:26:07,388 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:26:07,389 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:26:07,389 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 13:26:07,389 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:26:07,389 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:26:54,256 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:26:54,257 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:26:54,258 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 13:26:54,258 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:26:54,258 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:29:24,236 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:29:24,236 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:29:24,237 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 13:29:24,237 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:29:24,237 INFO  [Log] **************************************************************************************** 
+2017-02-06 13:29:44,924 INFO  [Log] First log test message  
+2017-02-06 13:30:10,135 ERROR [Log] Unable to find element with id == formQuestion (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.27 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:6645/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: c66ca0f0-d827-4619-a10a-8e0b0667390b
+*** Element info: {Using=id, value=formQuestion} 
+2017-02-06 15:11:26,308 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:11:26,321 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:11:26,321 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:11:26,321 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:11:26,321 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:15:50,675 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:15:50,676 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:15:50,676 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:15:50,676 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:15:50,676 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:16:15,708 INFO  [Log] First log test message  
+2017-02-06 15:16:18,752 ERROR [Log] Element is not displayed (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 818 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:19000/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 70268f8a-d687-47f7-88e9-d59952633128 
+2017-02-06 15:17:33,240 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:17:33,241 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:17:33,241 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:17:33,241 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:17:33,241 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:17:51,934 INFO  [Log] First log test message  
+2017-02-06 15:17:56,972 ERROR [Log] Element is not displayed (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 494 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:47905/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 90b08592-34a1-4a57-829c-6aec8a400d7d 
+2017-02-06 15:20:02,621 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:20:02,623 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:20:02,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:20:02,623 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:20:02,623 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:20:20,231 ERROR [Log] Modal dialog present: 
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:6047/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 13bbe501-2f2b-4a52-957b-2031b3812ee4
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-06 15:32:11,553 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:32:11,554 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:32:11,554 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:32:11,554 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:32:11,554 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:32:31,314 INFO  [Log] First log test message  
+2017-02-06 15:32:39,203 ERROR [Log] Element is not displayed (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 829 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:37772/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 8e4a7830-c66c-4b1a-bdb4-4ffafa4e8b10 
+2017-02-06 15:34:41,058 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:34:41,059 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:34:41,059 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:34:41,059 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:34:41,059 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:37:20,587 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:37:20,588 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:37:20,588 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:37:20,588 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:37:20,588 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:37:36,404 INFO  [Log] First log test message  
+2017-02-06 15:37:56,740 ERROR [Log] Unable to find element with id == ask-business-question (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:15047/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 71957afc-e338-4b10-8401-fcbdf6823dfd
+*** Element info: {Using=id, value=ask-business-question} 
+2017-02-06 15:39:18,732 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:39:18,733 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:39:18,733 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:39:18,733 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:39:18,733 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:39:40,876 INFO  [Log] First log test message  
+2017-02-06 15:39:44,707 ERROR [Log] Element is not displayed (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 627 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:32754/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 4fb4d42b-58ec-44cc-ac4f-e1e6f2b5ceea 
+2017-02-06 15:41:07,003 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:07,004 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:07,004 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:41:07,004 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:07,004 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:07,922 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:07,927 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:07,927 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:41:07,927 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:07,927 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:21,894 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:45881/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a631fd3c-5d49-473c-a981-b8cdd35b3693
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-06 15:41:22,091 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:12494/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 6575753d-1c3d-4bc3-baf7-14bab01733cd
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-06 15:41:33,935 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:33,936 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:33,936 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:41:33,936 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:33,936 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:41:52,628 INFO  [Log] First log test message  
+2017-02-06 15:41:59,943 ERROR [Log] Element is not displayed (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 468 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31757/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ac829be8-3e29-4979-b1a5-a57e47812268 
+2017-02-06 15:43:29,461 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:43:29,462 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:43:29,462 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:43:29,462 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:43:29,462 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:43:49,713 INFO  [Log] First log test message  
+2017-02-06 15:43:54,306 ERROR [Log] Element is not displayed (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 384 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:11030/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 66e12336-40d6-49ca-b7b9-fb014f776968 
+2017-02-06 15:45:06,355 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:06,356 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:06,356 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:45:06,357 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:06,357 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:06,716 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:06,716 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:06,716 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:45:06,717 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:06,717 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:21,508 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:36394/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 02488f38-3860-49ce-bc11-4edc5b24b908
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-06 15:45:22,395 ERROR [Log] A JavaScript error was encountered executing the findElement atom. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.39 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:37603/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 07a51b2d-19a8-49b4-b315-f249d7644762
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-06 15:45:30,410 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:30,416 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:30,416 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:45:30,416 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:45:30,416 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:46:02,383 INFO  [Log] First log test message  
+2017-02-06 15:46:18,790 ERROR [Log] A JavaScript error was encountered executing the findElement atom. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16.39 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:5747/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: bd76c806-d7b2-4bfc-9775-c30dfaca9665
+*** Element info: {Using=id, value=ask-business-question} 
+2017-02-06 15:58:32,650 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:58:32,650 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:58:32,650 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 15:58:32,651 INFO  [Log] **************************************************************************************** 
+2017-02-06 15:58:32,651 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:14:47,861 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:14:47,863 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:14:47,863 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 16:14:47,863 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:14:47,863 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:15:04,553 INFO  [Log] First log test message  
+2017-02-06 16:15:15,627 ERROR [Log] Element is not displayed (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 665 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:17836/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 1d918a3e-947f-47aa-bf85-c792ef41571d 
+2017-02-06 16:17:14,093 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:17:14,094 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:17:14,094 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 16:17:14,094 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:17:14,094 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:17:30,453 INFO  [Log] First log test message  
+2017-02-06 16:18:41,133 ERROR [Log] Cannot click on element (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 127 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:22726/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 9794b880-a0f4-444d-a92b-6e897cb31eae 
+2017-02-06 16:22:48,931 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:22:48,931 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:22:48,931 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 16:22:48,931 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:22:48,932 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:23:08,112 INFO  [Log] First log test message  
+2017-02-06 16:26:29,080 ERROR [Log] Unable to find element with xpath == html//body//div[2]//div//div[3]//div[2]//div[4]//div//div[1]//form//div//div[2]//p//input (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.30 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:33777/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 0f064ba9-5789-4b1c-bb1f-baaadaf7f76b
+*** Element info: {Using=xpath, value=html//body//div[2]//div//div[3]//div[2]//div[4]//div//div[1]//form//div//div[2]//p//input} 
+2017-02-06 16:30:08,644 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:30:08,645 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:30:08,645 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 16:30:08,645 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:30:08,645 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:30:24,344 INFO  [Log] First log test message  
+2017-02-06 16:33:23,635 ERROR [Log]  
+2017-02-06 16:34:58,599 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:34:58,599 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:34:58,599 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 16:34:58,599 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:34:58,599 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:35:14,463 INFO  [Log] First log test message  
+2017-02-06 16:38:13,513 ERROR [Log]  
+2017-02-06 16:40:22,406 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:40:22,406 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:40:22,407 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-06 16:40:22,407 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:40:22,407 INFO  [Log] **************************************************************************************** 
+2017-02-06 16:40:41,684 INFO  [Log] First log test message  
+2017-02-06 16:43:42,279 ERROR [Log]  
+2017-02-07 10:42:35,911 INFO  [Log] **************************************************************************************** 
+2017-02-07 10:42:35,912 INFO  [Log] **************************************************************************************** 
+2017-02-07 10:42:35,912 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-07 10:42:35,912 INFO  [Log] **************************************************************************************** 
+2017-02-07 10:42:35,912 INFO  [Log] **************************************************************************************** 
+2017-02-07 10:42:57,316 INFO  [Log] First log test message  
+2017-02-07 10:46:58,759 ERROR [Log]  
+2017-02-07 10:53:57,567 INFO  [Log] **************************************************************************************** 
+2017-02-07 10:53:57,567 INFO  [Log] **************************************************************************************** 
+2017-02-07 10:53:57,568 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-07 10:53:57,568 INFO  [Log] **************************************************************************************** 
+2017-02-07 10:53:57,568 INFO  [Log] **************************************************************************************** 
+2017-02-07 10:54:18,991 INFO  [Log] First log test message  
+2017-02-07 10:54:33,167 ERROR [Log]  
+2017-02-07 11:15:36,861 INFO  [Log] **************************************************************************************** 
+2017-02-07 11:15:36,861 INFO  [Log] **************************************************************************************** 
+2017-02-07 11:15:36,862 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-07 11:15:36,862 INFO  [Log] **************************************************************************************** 
+2017-02-07 11:15:36,862 INFO  [Log] **************************************************************************************** 
+2017-02-07 11:16:00,435 INFO  [Log] First log test message  
+2017-02-07 11:16:20,514 ERROR [Log] Unable to find element with id == ask-business-question (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:26041/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 7d37d482-553f-4778-9aa2-a4a9bbea1756
+*** Element info: {Using=id, value=ask-business-question} 
+2017-02-07 11:16:54,005 INFO  [Log] **************************************************************************************** 
+2017-02-07 11:16:54,006 INFO  [Log] **************************************************************************************** 
+2017-02-07 11:16:54,006 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-07 11:16:54,006 INFO  [Log] **************************************************************************************** 
+2017-02-07 11:16:54,006 INFO  [Log] **************************************************************************************** 
+2017-02-07 11:17:30,395 ERROR [Log] Unable to find element with xpath == html/body/div[1]/div[3]/div[2]/ul/li[1]/a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.30 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:45010/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 8d24eced-e206-4a37-95c5-03c1f173852e
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-07 16:44:49,905 INFO  [Log] **************************************************************************************** 
+2017-02-07 16:44:49,938 INFO  [Log] **************************************************************************************** 
+2017-02-07 16:44:49,938 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-07 16:44:49,938 INFO  [Log] **************************************************************************************** 
+2017-02-07 16:44:49,938 INFO  [Log] **************************************************************************************** 
+2017-02-07 16:44:51,031 INFO  [Log] **************************************************************************************** 
+2017-02-07 16:44:51,034 INFO  [Log] **************************************************************************************** 
+2017-02-07 16:44:51,034 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-07 16:44:51,034 INFO  [Log] **************************************************************************************** 
+2017-02-07 16:44:51,034 INFO  [Log] **************************************************************************************** 
+2017-02-07 16:45:22,244 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 85 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:48269/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 007a5bda-b286-48f5-bed8-cc60a13257e4
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-07 16:45:23,187 ERROR [Log] A JavaScript error was encountered executing the findElement atom. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.70 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:32599/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: d3525518-2f39-4cf3-a6a7-eb754d23c61b
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-08 11:11:17,039 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:11:17,046 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:11:17,046 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-08 11:11:17,046 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:11:17,046 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:11:43,794 INFO  [Log] First log test message  
+2017-02-08 11:12:00,542 ERROR [Log]  
+2017-02-08 11:12:40,875 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:12:40,875 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:12:40,875 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-08 11:12:40,875 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:12:40,875 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:12:59,996 INFO  [Log] First log test message  
+2017-02-08 11:13:16,095 ERROR [Log]  
+2017-02-08 11:13:55,889 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:13:55,890 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:13:55,891 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-08 11:13:55,891 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:13:55,891 INFO  [Log] **************************************************************************************** 
+2017-02-08 11:14:21,103 INFO  [Log] First log test message  
+2017-02-08 11:14:34,305 ERROR [Log]  
+2017-02-14 12:11:40,819 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:11:41,018 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:11:41,018 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 12:11:41,018 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:11:41,018 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:12:35,603 INFO  [Log] First log test message  
+2017-02-14 12:12:53,283 ERROR [Log]  
+2017-02-14 12:16:41,505 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:16:41,506 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:16:41,506 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 12:16:41,506 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:16:41,506 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:17:01,378 INFO  [Log] First log test message  
+2017-02-14 12:17:21,612 ERROR [Log] Unable to find element with id == ask-business-question (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.20 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:16496/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 73eb31e1-73af-4537-bf81-c7698dc07708
+*** Element info: {Using=id, value=ask-business-question} 
+2017-02-14 12:17:41,529 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:17:41,530 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:17:41,530 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 12:17:41,530 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:17:41,530 INFO  [Log] **************************************************************************************** 
+2017-02-14 12:17:58,143 INFO  [Log] First log test message  
+2017-02-14 12:20:58,898 ERROR [Log]  
+2017-02-14 15:00:56,994 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:00:56,994 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:00:56,994 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:00:56,995 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:00:56,995 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:01:26,684 INFO  [Log] First log test message  
+2017-02-14 15:04:27,887 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 213 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:16555/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 587c26b6-75e2-4f3e-9f3f-a94c944d60b0
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:06:08,357 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:06:08,358 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:06:08,358 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:06:08,358 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:06:08,358 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:06:25,186 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 41 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:4579/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 6c22f8c1-b154-4d91-98d9-c21175462fed
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-14 15:08:03,015 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:08:03,015 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:08:03,015 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:08:03,015 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:08:03,016 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:08:21,623 INFO  [Log] First log test message  
+2017-02-14 15:08:37,468 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 267 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:42993/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 3c0a7ce9-b52b-44fa-915b-26d0bbb1c0ce
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:10:56,448 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:10:56,448 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:10:56,448 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:10:56,449 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:10:56,449 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:11:14,921 INFO  [Log] First log test message  
+2017-02-14 15:11:29,864 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 232 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:10910/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a29652ed-6a89-4c0d-a647-b56a00b65718
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:13:32,743 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:13:32,744 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:13:32,744 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:13:32,744 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:13:32,744 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:14:06,850 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:14:06,851 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:14:06,851 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:14:06,851 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:14:06,851 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:14:26,286 INFO  [Log] First log test message  
+2017-02-14 15:17:28,145 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 162 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:34490/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: bf7dcaf2-6de4-409a-8fac-52845cd32a86
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:23:43,522 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:23:43,523 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:23:43,523 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:23:43,523 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:23:43,523 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:24:03,177 INFO  [Log] First log test message  
+2017-02-14 15:27:01,088 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 131 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:16900/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 7f2a6dc5-5f89-46db-9ea8-0f083214285d
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:33:12,922 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:33:12,923 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:33:12,924 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:33:12,924 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:33:12,924 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:33:31,756 INFO  [Log] First log test message  
+2017-02-14 15:36:32,287 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 154 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:36875/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 4b20d482-caa6-4cec-b87d-a79c8ddcb306
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:41:46,727 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:41:46,728 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:41:46,728 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:41:46,728 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:41:46,728 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:41:58,925 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:13939/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 5a447a55-bd34-47d2-b438-b0a82bf46d4f
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-14 15:42:06,504 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:42:06,506 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:42:06,506 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:42:06,507 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:42:06,507 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:42:25,020 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:42:25,021 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:42:25,021 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:42:25,021 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:42:25,021 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:42:40,900 INFO  [Log] First log test message  
+2017-02-14 15:42:56,467 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 262 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:15110/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: dda00dc3-42be-4b46-bd05-d4ec27c5b7bc
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:43:27,980 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:43:27,981 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:43:27,981 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:43:27,981 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:43:27,981 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:43:43,336 INFO  [Log] First log test message  
+2017-02-14 15:43:58,518 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 268 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:41571/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: f8e40d57-b366-4996-b4d1-7c9e92c0f213
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:45:50,180 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:45:50,181 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:45:50,181 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:45:50,181 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:45:50,181 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:46:07,916 INFO  [Log] First log test message  
+2017-02-14 15:46:24,463 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 105 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:41909/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: c19e13f9-77f5-4ea6-bdc0-a1a44cd179db
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:48:11,081 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:48:11,087 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:48:11,087 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:48:11,087 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:48:11,087 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:48:30,385 INFO  [Log] First log test message  
+2017-02-14 15:48:41,002 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 121 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:46747/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ff09e644-2d73-45d8-b6a0-e5a1bbffd837
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 15:53:19,798 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:53:19,798 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:53:19,798 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 15:53:19,798 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:53:19,799 INFO  [Log] **************************************************************************************** 
+2017-02-14 15:53:38,669 INFO  [Log] First log test message  
+2017-02-14 15:53:49,415 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 108 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:26666/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: aeac5ed9-632d-4c98-8382-124bcabad0a6
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 16:00:32,229 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:00:32,230 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:00:32,230 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:00:32,230 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:00:32,230 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:00:48,258 INFO  [Log] First log test message  
+2017-02-14 16:01:00,114 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 87 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:35238/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 8a7e3ec3-65a1-4437-9b8e-73c27fcb81e6
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 16:01:50,403 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:01:50,404 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:01:50,404 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:01:50,404 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:01:50,404 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:02:08,930 INFO  [Log] First log test message  
+2017-02-14 16:02:42,435 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 93 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:10837/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 31c67017-1958-45b3-b441-579811b76727
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 16:04:28,441 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:04:28,442 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:04:28,442 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:04:28,445 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:04:28,445 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:04:48,270 INFO  [Log] First log test message  
+2017-02-14 16:05:19,104 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 255 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:33780/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: d68e7113-faf0-421b-96e2-b3fe31cffab5
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 16:06:09,189 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:06:09,190 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:06:09,190 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:06:09,190 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:06:09,190 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:06:25,340 INFO  [Log] First log test message  
+2017-02-14 16:06:56,918 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 315 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:42453/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 495acae9-2fcf-4d6c-a4a8-4d3820ac892a
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 16:07:38,779 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:07:38,780 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:07:38,780 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:07:38,780 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:07:38,780 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:07:56,800 INFO  [Log] First log test message  
+2017-02-14 16:08:31,351 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 89 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:36653/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 1639612d-7196-4af2-9781-a16fe9cfb41c
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 16:16:22,472 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:16:22,473 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:16:22,473 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:16:22,473 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:16:22,473 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:16:39,287 INFO  [Log] First log test message  
+2017-02-14 16:17:11,844 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 201 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:47532/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a8e3bc9b-176b-4610-b371-50075bad6eb6
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 16:19:25,976 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:19:25,977 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:19:25,977 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:19:25,977 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:19:25,977 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:19:45,103 INFO  [Log] First log test message  
+2017-02-14 16:20:18,863 ERROR [Log] Unable to locate an element with the xpath expression //input[@type='submit' AND @name='btn-continue'] because of the following error:
+Error: Bad token, expected: ] got: AND (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 168 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:28459/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 20fb164c-fc21-4490-9da1-bc2419a94869
+*** Element info: {Using=xpath, value=//input[@type='submit' AND @name='btn-continue']} 
+2017-02-14 16:24:16,885 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:16,885 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:16,885 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:24:16,885 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:16,885 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:17,528 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:17,528 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:17,528 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:24:17,528 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:17,528 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:32,023 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:21303/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: d49ccf3b-d127-4f4b-9ff4-79228d5af0a0
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-14 16:24:33,484 ERROR [Log] Modal dialog present: 
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:3006/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 563c3543-7aec-4232-88ae-443c94c7937d
+*** Element info: {Using=xpath, value=html/body/div[1]/div[3]/div[2]/ul/li[1]/a} 
+2017-02-14 16:24:39,287 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:39,288 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:39,288 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-14 16:24:39,288 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:39,288 INFO  [Log] **************************************************************************************** 
+2017-02-14 16:24:55,357 INFO  [Log] First log test message  
+2017-02-14 16:25:27,861 ERROR [Log]  
+2017-02-15 11:31:39,350 INFO  [Log] **************************************************************************************** 
+2017-02-15 11:31:39,372 INFO  [Log] **************************************************************************************** 
+2017-02-15 11:31:39,372 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-15 11:31:39,372 INFO  [Log] **************************************************************************************** 
+2017-02-15 11:31:39,372 INFO  [Log] **************************************************************************************** 
+2017-02-15 11:32:05,136 INFO  [Log] First log test message  
+2017-02-15 11:32:25,591 ERROR [Log] Unable to find element with id == ask-business-question (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.35 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:12060/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 8fd4f164-7085-4b7f-bfc5-c2422ae1257b
+*** Element info: {Using=id, value=ask-business-question} 
+2017-02-15 11:44:25,123 INFO  [Log] **************************************************************************************** 
+2017-02-15 11:44:25,124 INFO  [Log] **************************************************************************************** 
+2017-02-15 11:44:25,124 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-15 11:44:25,124 INFO  [Log] **************************************************************************************** 
+2017-02-15 11:44:25,124 INFO  [Log] **************************************************************************************** 
+2017-02-15 11:44:48,479 INFO  [Log] First log test message  
+2017-02-15 11:45:18,659 ERROR [Log]  
+2017-02-15 17:13:30,717 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:13:30,738 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:13:30,739 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-15 17:13:30,739 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:13:30,739 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:14:03,567 INFO  [Log] First log test message  
+2017-02-15 17:14:17,246 ERROR [Log] A JavaScript error was encountered executing the findElement atom. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13.32 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:35974/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a2b48082-8d7b-48ec-ad9e-1698ed13799f
+*** Element info: {Using=id, value=ask-business-question} 
+2017-02-15 17:15:18,654 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:15:18,655 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:15:18,656 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-15 17:15:18,656 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:15:18,656 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:15:40,275 INFO  [Log] First log test message  
+2017-02-15 17:16:00,324 ERROR [Log] Unable to find element with id == ask-business-question (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:18131/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: afce3999-0ce9-4d6f-b7b0-2d89dd857337
+*** Element info: {Using=id, value=ask-business-question} 
+2017-02-15 17:16:34,293 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:16:34,294 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:16:34,294 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-15 17:16:34,294 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:16:34,294 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:16:57,423 INFO  [Log] First log test message  
+2017-02-15 17:17:27,612 ERROR [Log]  
+2017-02-15 17:19:53,909 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:19:53,910 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:19:53,910 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-15 17:19:53,910 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:19:53,910 INFO  [Log] **************************************************************************************** 
+2017-02-15 17:20:13,282 INFO  [Log] First log test message  
+2017-02-15 17:20:42,506 ERROR [Log]  
+2017-02-16 11:43:20,293 INFO  [Log] **************************************************************************************** 
+2017-02-16 11:43:20,421 INFO  [Log] **************************************************************************************** 
+2017-02-16 11:43:20,421 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 11:43:20,421 INFO  [Log] **************************************************************************************** 
+2017-02-16 11:43:20,421 INFO  [Log] **************************************************************************************** 
+2017-02-16 11:45:01,402 INFO  [Log] First log test message  
+2017-02-16 11:45:01,923 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:26314/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ba1af772-4d6f-4ce2-a640-d7abb2e881fc
+*** Element info: {Using=id, value=ask-business-question} 
+2017-02-16 11:45:30,005 INFO  [Log] **************************************************************************************** 
+2017-02-16 11:45:30,007 INFO  [Log] **************************************************************************************** 
+2017-02-16 11:45:30,008 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 11:45:30,008 INFO  [Log] **************************************************************************************** 
+2017-02-16 11:45:30,008 INFO  [Log] **************************************************************************************** 
+2017-02-16 11:45:49,111 INFO  [Log] First log test message  
+2017-02-16 11:46:24,504 ERROR [Log]  
+2017-02-16 12:16:01,517 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:16:01,518 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:16:01,518 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:16:01,518 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:16:01,518 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:16:19,317 INFO  [Log] First log test message  
+2017-02-16 12:16:54,776 ERROR [Log]  
+2017-02-16 12:21:24,055 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:21:24,056 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:21:24,056 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:21:24,056 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:21:24,056 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:22:19,323 INFO  [Log] First log test message  
+2017-02-16 12:22:19,350 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:33220/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 8aab3f1a-9539-443e-ad30-d5ae733a0c4d
+*** Element info: {Using=id, value=company-report} 
+2017-02-16 12:22:30,273 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:22:30,276 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:22:30,276 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:22:30,276 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:22:30,276 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:22:49,908 INFO  [Log] First log test message  
+2017-02-16 12:24:23,777 ERROR [Log]  
+2017-02-16 12:26:58,969 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:26:58,970 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:26:58,970 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:26:58,970 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:26:58,970 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:27:15,553 INFO  [Log] First log test message  
+2017-02-16 12:28:10,117 ERROR [Log] Unable to find element with xpath == html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.33 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:22053/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 82585efe-1f2b-474b-ad2d-b06f8a522883
+*** Element info: {Using=xpath, value=html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a} 
+2017-02-16 12:29:40,051 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:29:40,052 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:29:40,052 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:29:40,052 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:29:40,052 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:30:00,960 INFO  [Log] First log test message  
+2017-02-16 12:30:57,314 ERROR [Log] Unable to find element with xpath == html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.33 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:37908/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 3c4dbdd3-8710-402b-a535-ca9a2f7cb8c4
+*** Element info: {Using=xpath, value=html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a} 
+2017-02-16 12:31:31,340 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:31:31,341 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:31:31,341 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:31:31,341 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:31:31,341 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:31:48,983 INFO  [Log] First log test message  
+2017-02-16 12:32:42,720 ERROR [Log] Unable to find element with xpath == html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.50 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:32401/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 27fd5778-a7f2-4112-b616-a25a7eeba2b6
+*** Element info: {Using=xpath, value=html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a} 
+2017-02-16 12:34:43,887 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:34:43,888 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:34:43,888 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:34:43,888 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:34:43,888 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:35:04,344 INFO  [Log] First log test message  
+2017-02-16 12:35:55,840 ERROR [Log] Unable to find element with xpath == html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.22 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:19378/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 6702319c-8cd6-4564-9b4a-f7bd496a4155
+*** Element info: {Using=xpath, value=html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a} 
+2017-02-16 12:37:27,026 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:37:27,027 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:37:27,027 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:37:27,027 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:37:27,027 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:38:03,850 INFO  [Log] First log test message  
+2017-02-16 12:38:03,868 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:20501/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 78ab59aa-fc41-4fee-b143-d84a69c30e0f
+*** Element info: {Using=id, value=company-report} 
+2017-02-16 12:38:11,898 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:38:11,899 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:38:11,899 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:38:11,899 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:38:11,899 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:38:31,758 INFO  [Log] First log test message  
+2017-02-16 12:39:22,385 ERROR [Log] Unable to find element with xpath == html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:35714/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 5199e9d1-51bd-4b3f-adf8-9ca3a27efb02
+*** Element info: {Using=xpath, value=html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a} 
+2017-02-16 12:40:24,643 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:40:24,644 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:40:24,644 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 12:40:24,644 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:40:24,644 INFO  [Log] **************************************************************************************** 
+2017-02-16 12:40:44,057 INFO  [Log] First log test message  
+2017-02-16 12:41:38,780 ERROR [Log] Unable to find element with xpath == html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.21 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:8560/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 6bc7d364-16ce-45d7-9554-872eba8e2dbc
+*** Element info: {Using=xpath, value=html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a} 
+2017-02-16 16:59:59,753 INFO  [Log] **************************************************************************************** 
+2017-02-16 16:59:59,767 INFO  [Log] **************************************************************************************** 
+2017-02-16 16:59:59,767 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 16:59:59,767 INFO  [Log] **************************************************************************************** 
+2017-02-16 16:59:59,767 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:01:10,854 INFO  [Log] First log test message  
+2017-02-16 17:01:11,154 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:16654/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a1480681-44b2-403e-9c96-3dfcb35692f3
+*** Element info: {Using=id, value=company-report} 
+2017-02-16 17:11:27,529 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:11:27,529 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:11:27,530 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 17:11:27,530 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:11:27,530 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:11:48,696 INFO  [Log] First log test message  
+2017-02-16 17:12:41,139 ERROR [Log] Unable to find element with xpath == html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.21 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:1050/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a5d59b57-adcd-4239-9bc5-9b2e24b2f038
+*** Element info: {Using=xpath, value=html//body//div[2]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a} 
+2017-02-16 17:14:58,064 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:14:58,065 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:14:58,065 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 17:14:58,065 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:14:58,065 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:15:18,840 INFO  [Log] First log test message  
+2017-02-16 17:15:56,070 ERROR [Log]  
+2017-02-16 17:15:56,070 ERROR [Log]  
+2017-02-16 17:27:24,159 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:27:24,160 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:27:24,160 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 17:27:24,160 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:27:24,160 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:27:44,187 INFO  [Log] First log test message  
+2017-02-16 17:28:39,749 ERROR [Log] Unable to find element with xpath == html//body//div[3]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.30 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:29293/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: bd73300c-14ff-42cd-be16-6ce767c5adfd
+*** Element info: {Using=xpath, value=html//body//div[3]//div//div//div[3]//div[2]//div[1]//div[1]//p[2]//a} 
+2017-02-16 17:28:57,578 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:28:57,579 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:28:57,579 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 17:28:57,579 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:28:57,579 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:29:14,309 INFO  [Log] First log test message  
+2017-02-16 17:29:55,435 ERROR [Log]  
+2017-02-16 17:29:55,435 ERROR [Log]  
+2017-02-16 17:30:44,837 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:30:44,837 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:30:44,838 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 17:30:44,838 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:30:44,838 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:31:02,383 INFO  [Log] First log test message  
+2017-02-16 17:31:53,466 ERROR [Log] Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:7518/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 70e5375b-5cbd-4520-a2c9-8cf265b3ead8
+*** Element info: {Using=xpath, value=html//body//div[3]//div//div[3]//div[2]//div[1]//div//div[1]//form//fieldset//div//div[1]//input} 
+2017-02-16 17:32:04,329 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:32:04,330 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:32:04,330 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 17:32:04,330 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:32:04,330 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:32:23,046 INFO  [Log] First log test message  
+2017-02-16 17:32:43,131 ERROR [Log] Unable to find element with id == company-report (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:9005/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: c6c76f8b-f75c-49ca-8ad7-31836fa46fad
+*** Element info: {Using=id, value=company-report} 
+2017-02-16 17:37:01,607 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:37:01,608 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:37:01,608 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-16 17:37:01,608 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:37:01,608 INFO  [Log] **************************************************************************************** 
+2017-02-16 17:37:17,894 INFO  [Log] First log test message  
+2017-02-16 17:37:36,458 ERROR [Log] A JavaScript error was encountered executing the findElement atom. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18.49 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:37138/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 41b33c3d-ca18-418e-8020-50cd80d8ceb3
+*** Element info: {Using=id, value=company-report} 
+2017-02-20 10:56:01,864 INFO  [Log] **************************************************************************************** 
+2017-02-20 10:56:01,890 INFO  [Log] **************************************************************************************** 
+2017-02-20 10:56:01,890 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 10:56:01,890 INFO  [Log] **************************************************************************************** 
+2017-02-20 10:56:01,890 INFO  [Log] **************************************************************************************** 
+2017-02-20 10:56:30,578 INFO  [Log] First log test message  
+2017-02-20 10:57:14,424 ERROR [Log]  
+2017-02-20 10:57:14,424 ERROR [Log]  
+2017-02-20 11:04:05,004 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:04:05,005 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:04:05,005 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:04:05,005 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:04:05,005 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:04:25,377 INFO  [Log] First log test message  
+2017-02-20 11:04:45,466 ERROR [Log] Unable to find element with id == company-report (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:13759/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: d2497e79-d548-475e-a1ab-53d71b1d5fb0
+*** Element info: {Using=id, value=company-report} 
+2017-02-20 11:04:57,652 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:04:57,653 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:04:57,653 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:04:57,653 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:04:57,653 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:05:14,080 INFO  [Log] First log test message  
+2017-02-20 11:05:56,546 ERROR [Log]  
+2017-02-20 11:05:56,546 ERROR [Log]  
+2017-02-20 11:30:11,100 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:30:11,100 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:30:11,100 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:30:11,100 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:30:11,100 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:30:30,681 INFO  [Log] First log test message  
+2017-02-20 11:31:08,095 ERROR [Log]  
+2017-02-20 11:31:08,095 ERROR [Log]  
+2017-02-20 11:38:14,912 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:38:14,913 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:38:14,913 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:38:14,913 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:38:14,913 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:38:37,589 INFO  [Log] First log test message  
+2017-02-20 11:38:50,778 ERROR [Log]  
+2017-02-20 11:38:50,778 ERROR [Log]  
+2017-02-20 11:39:47,631 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:39:47,635 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:39:47,635 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:39:47,635 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:39:47,635 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:40:06,492 INFO  [Log] First log test message  
+2017-02-20 11:40:22,768 ERROR [Log]  
+2017-02-20 11:40:22,769 ERROR [Log]  
+2017-02-20 11:41:04,533 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:41:04,534 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:41:04,534 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:41:04,534 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:41:04,534 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:41:23,486 INFO  [Log] First log test message  
+2017-02-20 11:42:21,866 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:42:21,867 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:42:21,867 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:42:21,867 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:42:21,867 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:42:40,540 INFO  [Log] First log test message  
+2017-02-20 11:43:21,102 ERROR [Log] Unable to find element with xpath == html//body//div[2]//div//div//div[5]//div//div//div//input (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.40 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:35745/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 749977c3-6dca-4bf0-a3e6-81347e82045e
+*** Element info: {Using=xpath, value=html//body//div[2]//div//div//div[5]//div//div//div//input} 
+2017-02-20 11:44:05,439 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:44:05,440 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:44:05,440 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:44:05,440 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:44:05,440 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:44:24,215 INFO  [Log] First log test message  
+2017-02-20 11:44:49,997 ERROR [Log]  
+2017-02-20 11:44:49,997 ERROR [Log]  
+2017-02-20 11:51:37,646 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:51:37,647 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:51:37,647 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:51:37,647 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:51:37,647 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:51:56,995 INFO  [Log] First log test message  
+2017-02-20 11:52:17,658 ERROR [Log]  
+2017-02-20 11:52:17,658 ERROR [Log]  
+2017-02-20 11:52:56,914 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:52:56,914 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:52:56,914 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:52:56,915 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:52:56,915 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:53:15,994 INFO  [Log] First log test message  
+2017-02-20 11:53:46,090 ERROR [Log]  
+2017-02-20 11:53:46,092 ERROR [Log]  
+2017-02-20 11:54:59,335 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:54:59,336 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:54:59,336 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:54:59,336 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:54:59,336 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:55:15,742 INFO  [Log] First log test message  
+2017-02-20 11:55:50,489 ERROR [Log]  
+2017-02-20 11:55:50,490 ERROR [Log]  
+2017-02-20 11:57:39,714 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:57:39,715 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:57:39,715 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 11:57:39,715 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:57:39,715 INFO  [Log] **************************************************************************************** 
+2017-02-20 11:57:55,466 INFO  [Log] First log test message  
+2017-02-20 11:58:17,820 ERROR [Log]  
+2017-02-20 11:58:17,820 ERROR [Log]  
+2017-02-20 12:01:49,772 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:01:49,773 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:01:49,773 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 12:01:49,773 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:01:49,773 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:02:05,804 INFO  [Log] First log test message  
+2017-02-20 12:02:41,327 ERROR [Log]  
+2017-02-20 12:02:41,327 ERROR [Log]  
+2017-02-20 12:03:24,021 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:03:24,022 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:03:24,022 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 12:03:24,022 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:03:24,022 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:03:42,810 INFO  [Log] First log test message  
+2017-02-20 12:04:21,156 ERROR [Log]  
+2017-02-20 12:04:21,156 ERROR [Log]  
+2017-02-20 12:55:50,540 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:55:50,563 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:55:50,563 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 12:55:50,563 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:55:50,563 INFO  [Log] **************************************************************************************** 
+2017-02-20 12:56:13,023 INFO  [Log] First log test message  
+2017-02-20 12:56:49,958 ERROR [Log]  
+2017-02-20 12:56:49,958 ERROR [Log]  
+2017-02-20 15:01:22,064 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:01:22,065 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:01:22,065 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 15:01:22,065 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:01:22,065 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:01:39,541 INFO  [Log] First log test message  
+2017-02-20 15:01:59,665 ERROR [Log] Unable to find element with id == company-report (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:8310/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 048ebae0-e706-4329-847c-7d3bdd7c938f
+*** Element info: {Using=id, value=company-report} 
+2017-02-20 15:14:47,707 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:14:47,708 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:14:47,708 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 15:14:47,708 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:14:47,708 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:15:10,726 INFO  [Log] First log test message  
+2017-02-20 15:15:31,076 ERROR [Log] Unable to find element with id == company-report (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.33 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:7698/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: e9577624-8be4-40f3-ab09-04e3117ce05b
+*** Element info: {Using=id, value=company-report} 
+2017-02-20 15:15:53,920 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:15:53,921 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:15:53,921 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 15:15:53,921 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:15:53,921 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:16:12,378 INFO  [Log] First log test message  
+2017-02-20 15:16:32,479 ERROR [Log] Unable to find element with id == company-report (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:5507/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: afff62ed-bda6-4884-97df-90185d65b0d0
+*** Element info: {Using=id, value=company-report} 
+2017-02-20 15:49:17,400 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:49:17,401 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:49:17,401 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 framework       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-02-20 15:49:17,401 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:49:17,401 INFO  [Log] **************************************************************************************** 
+2017-02-20 15:49:36,869 INFO  [Log] First log test message  
+2017-02-20 15:49:57,198 ERROR [Log] Unable to find element with id == company-report (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'EVS01CPB367', ip: '172.16.30.90', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=false, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=true, browserName=internet explorer, initialBrowserUrl=http://localhost:22848/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 8bfa9315-f790-4ff6-a93c-c51672d4d98b
+*** Element info: {Using=id, value=company-report} 

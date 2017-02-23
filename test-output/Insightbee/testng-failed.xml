@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Insightbee]">
+  <test name="ISB Suite(failed)">
+    <classes>
+      <class name="Action_pkg.newcustomer_signup">
+        <methods>
+          <include name="report"/>
+        </methods>
+      </class> <!-- Action_pkg.newcustomer_signup -->
+    </classes>
+  </test> <!-- ISB Suite(failed) -->
+</suite> <!-- Failed suite [Insightbee] -->
